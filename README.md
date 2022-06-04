@@ -5,5 +5,6 @@ Simple GUI translator
 </h3>
 
 `pip install tkinter
+<br>
 pip install googletrans
 `
