@@ -7,5 +7,7 @@ Simple GUI translator
 `
 pip install tkinter
 `
+<br>
+`
 pip install googletrans
 `
