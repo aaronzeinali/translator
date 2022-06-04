@@ -4,7 +4,7 @@ Simple GUI translator
   Requirements
 </h3>
 
-`pip install tkinter
-<br>
+`
+pip install tkinter
 pip install googletrans
 `
